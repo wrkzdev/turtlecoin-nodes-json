@@ -109,6 +109,12 @@
       "ssl": false
     },
     {
+      "name": "fastturtles.ddns.net",
+      "url": "fastturtles.ddns.net",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "fr.trtl.no",
       "url": "fr.trtl.no",
       "port": 11898,
