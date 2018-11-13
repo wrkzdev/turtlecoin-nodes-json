@@ -1,6 +1,12 @@
 {
   "nodes": [
     {
+      "name": "'50 Turtle' public node",
+      "url": "turtle-node.tk",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "AG's EU Public Node",
       "url": "public-turtle-node.ga",
       "port": 11898,
