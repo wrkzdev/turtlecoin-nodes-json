@@ -7,20 +7,8 @@
       "ssl": false
     },
     {
-      "name": "AG's EU Public Node",
-      "url": "public-turtle-node.ga",
-      "port": 11898,
-      "ssl": false
-    },    
-    {
       "name": "All Europe Public Node",
       "url": "all-europe-turtle-node.ga",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "Amsterdam EU Public Node",
-      "url": "turtlenode.co.uk",
       "port": 11898,
       "ssl": false
     },
@@ -49,12 +37,6 @@
       "ssl": false
     },
     {
-      "name": "CHINA-ASIA - trtl.top",
-      "url": "trtl.top",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "CHRISCRYPTO",
       "url": "trtlco.in",
       "port": 11898,
@@ -73,12 +55,6 @@
       "ssl": false
     },
     {
-      "name": "Dela Turtle EU",
-      "url": "delaturtle.ddns.net",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "D. Smasher's Node",
       "url": "dsmash.turtlenode.online",
       "port": 11898,
@@ -87,12 +63,6 @@
     {
       "name": "EU - london.turtlenode.online",
       "url": "london.turtlenode.online",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "EU - racing-americanas.ga",
-      "url": "racing-americanas.ga",
       "port": 11898,
       "ssl": false
     },
@@ -115,12 +85,6 @@
       "ssl": false
     },
     {
-      "name": "fastturtles.ddns.net",
-      "url": "fastturtles.ddns.net",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "fr.trtl.no",
       "url": "fr.trtl.no",
       "port": 11898,
@@ -130,12 +94,6 @@
       "name": "FR - turtle-node.me",
       "url": "fr.turtle-node.me",
       "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "Gerry's Free Node",
-      "url": "node.turtlecoin.rocks",
-      "port": 12998,
       "ssl": false
     },
     {
@@ -193,12 +151,6 @@
       "ssl": false
     },
     {
-      "name": "skinner.aus",
-      "url": "skinnerturtle.ddns.net",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "TRTL - turtle-node.me",
       "url": "trtl.turtle-node.me",
       "port": 11898,
@@ -231,12 +183,6 @@
     {
       "name": "turtle-japakar",
       "url": "turtle.japakar.com",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "Turtle Node US West",
-      "url": "167.99.168.158",
       "port": 11898,
       "ssl": false
     },
