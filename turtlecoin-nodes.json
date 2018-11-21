@@ -1,6 +1,12 @@
 {
   "nodes": [
     {
+      "name": "'25 fee Turtle' public node",
+      "url": "vmi185198.contaboserver.net",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "'50 Turtle' public node",
       "url": "turtle-node.tk",
       "port": 11898,
