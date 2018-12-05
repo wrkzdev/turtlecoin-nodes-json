@@ -43,6 +43,12 @@
       "ssl": false
     },
     {
+      "name": "Austria node - Turtle.Land",
+      "url": "node.turtle.land",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Balkans Public Node",
       "url": "turtlecoin.mywire.org",
       "port": 11898,
