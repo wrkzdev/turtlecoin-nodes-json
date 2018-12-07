@@ -31,12 +31,6 @@
       "ssl": false
     },
     {
-      "name": "ASIA - asia.turtlenode.io",
-      "url": "asia.turtlenode.io",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "Australia/Brisbane - Thingyweb.com.au",
       "url": "trtlnode.thingyweb.com.au",
       "port": 11898,
@@ -53,7 +47,7 @@
       "url": "turtlecoin.mywire.org",
       "port": 11898,
       "ssl": false
-    },    
+    },
     {
       "name": "CHRISCRYPTO",
       "url": "trtlco.in",
@@ -105,12 +99,6 @@
     {
       "name": "EU2 - turtle-node.me",
       "url": "eu.turtle-node.me",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "EUROPE - europe.turtlenode.io",
-      "url": "europe.turtlenode.io",
       "port": 11898,
       "ssl": false
     },
@@ -279,12 +267,6 @@
     {
       "name": "US-EAST - us-east.turtlenode.io",
       "url": "us-east.turtlenode.io",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "US-WEST - us-west.turtlenode.io",
-      "url": "us-west.turtlenode.io",
       "port": 11898,
       "ssl": false
     },
