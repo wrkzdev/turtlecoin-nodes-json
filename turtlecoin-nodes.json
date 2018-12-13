@@ -193,6 +193,12 @@
       "ssl": false
     },
     {
+      "name": "trtl.urmom.lol",
+      "url": "trtl.urmom.lol",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Turtleland.fun - Asia",
       "url": "asia.turtleland.fun",
       "port": 11898,
