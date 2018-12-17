@@ -305,6 +305,12 @@
       "url": "xaznode.com",
       "port": 11898,
       "ssl": false
+    },
+    {
+      "name": "XYZ Node1",
+      "url": "trtl01.etc-hosts.xyz",
+      "port": 11898,
+      "ssl": false
     }
   ]
 }
