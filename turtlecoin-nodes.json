@@ -163,6 +163,12 @@
       "ssl": false
     },
     {
+      "name": "TRTLnode4whales",
+      "url": "trtl.node4whales.tk",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Pecunia Italian Node",
       "url": "turtle.pecunia.network",
       "port": 11898,
