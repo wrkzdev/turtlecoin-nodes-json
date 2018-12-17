@@ -163,12 +163,6 @@
       "ssl": false
     },
     {
-      "name": "TRTLnode4whales",
-      "url": "trtl.node4whales.tk",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "Pecunia Italian Node",
       "url": "turtle.pecunia.network",
       "port": 11898,
@@ -187,20 +181,26 @@
       "ssl": false
     },
     {
-      "name": "TRTL - turtle-node.me",
-      "url": "trtl.turtle-node.me",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "TRTL.io - US East",
       "url": "node.trtl.io",
       "port": 11898,
       "ssl": false
     },
     {
+      "name": "TRTLnode4whales",
+      "url": "trtl.node4whales.tk",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "TRTL-STORE",
       "url": "node.trtl-store.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "TRTL - turtle-node.me",
+      "url": "trtl.turtle-node.me",
       "port": 11898,
       "ssl": false
     },
