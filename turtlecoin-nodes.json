@@ -85,12 +85,6 @@
       "ssl": false
     },
     {
-      "name": "EU - london.turtlenode.online",
-      "url": "london.turtlenode.online",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "EU Public Node",
       "url": "crypto-dredge.com",
       "port": 11898,
@@ -177,6 +171,12 @@
     {
       "name": "PUBLIC TurtleNode NET",
       "url": "public.turtlenode.net",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "public.turtlenode.online",
+      "url": "public.turtlenode.online",
       "port": 11898,
       "ssl": false
     },
