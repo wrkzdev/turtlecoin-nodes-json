@@ -61,6 +61,12 @@
       "ssl": false
     },
     {
+      "name": "Canada node - Mrmetech.com",
+      "url": "turtle1.mrmetech.com",
+      "port": 11898,
+      "ssl": false
+    },    
+    {
       "name": "CHRISCRYPTO",
       "url": "trtlco.in",
       "port": 11898,
