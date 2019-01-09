@@ -295,6 +295,12 @@
       "ssl": false
     },
     {
+      "name": "turtle.moxiemoe.io",
+      "url": "turtle.moxiemoe.io",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "UK - turtle-node.me",
       "url": "uk.turtle-node.me",
       "port": 11898,
