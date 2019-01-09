@@ -37,8 +37,8 @@
       "ssl": false
     },
     {
-      "name": "Australia/Brisbane - Thingyweb.com.au",
-      "url": "trtlnode.thingyweb.com.au",
+      "name": "Australia - Thingyweb.com",
+      "url": "node.turtlecoin.thingyweb.com",
       "port": 11898,
       "ssl": false
     },
