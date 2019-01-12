@@ -151,12 +151,6 @@
       "ssl": false
     },
     {
-      "name": "greywolf London",
-      "url": "turtlenode.me",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "Hashvault.pro turtle node",
       "url": "nodes.hashvault.pro",
       "port": 11898,
