@@ -97,12 +97,6 @@
       "ssl": false
     },
     {
-      "name": "D. Smasher's Node",
-      "url": "dsmash.turtlenode.online",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "EU Public Node",
       "url": "crypto-dredge.com",
       "port": 11898,
