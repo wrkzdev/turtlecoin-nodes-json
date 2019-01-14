@@ -1,14 +1,92 @@
 {
   "nodes": [
     {
-      "name": "ASIA",
-      "url": "asia.turtlenode.io",
+      "name": "'2girls1node' public node",
+      "url": "2girls1node.imhard4.men",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "CHINA-ASIA",
-      "url": "trtl.top",
+      "name": "'50 Turtle' public node",
+      "url": "turtle-node.tk",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "’A German public node",
+      "url": "40.115.43.33",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "All Europe Public Node",
+      "url": "all-europe-turtle-node.ga",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "aneki's Aussie Node",
+      "url": "node.turtlecoin.club",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "aneki's Sewer Node - 2.5 TRTL Fee",
+      "url": "sewer.turtlecoin.club",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Australia - Thingyweb.com",
+      "url": "node.turtlecoin.thingyweb.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Austria node - Turtle.Land",
+      "url": "node.turtle.land",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Balkans Public Node",
+      "url": "turtlecoin.mywire.org",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "BalticBlockchain - Public Node",
+      "url": "balticblockchain.de",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Bamn! Its a blockchain!",
+      "url": "bamn.spdns.de",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "CAD - Turtle.Mrmetech.com",
+      "url": "turtle1.mrmetech.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "CHRISCRYPTO",
+      "url": "trtlco.in",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Contabo - Germany",
+      "url": "vmi207638.contaboserver.net",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "CuvéeTrtl - Czech Republic",
+      "url": "cuveetrtl.czech.cloud",
       "port": 11898,
       "ssl": false
     },
@@ -25,26 +103,26 @@
       "ssl": false
     },
     {
-      "name": "EU",
-      "url": "london.turtlenode.online",
+      "name": "EU Public Node",
+      "url": "crypto-dredge.com",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "EU",
+      "name": "EU - turtle-node.me",
       "url": "turtle-node.me",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "EU",
-      "url": "racing-americanas.ga",
+      "name": "EU - Turtlepool public nodes - 10TRTL Fee",
+      "url": "node.turtlepool.space",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "EUROPE",
-      "url": "europe.turtlenode.io",
+      "name": "EU2 - turtle-node.me",
+      "url": "eu.turtle-node.me",
       "port": 11898,
       "ssl": false
     },
@@ -55,13 +133,55 @@
       "ssl": false
     },
     {
+      "name": "FR - turtle-node.me",
+      "url": "fr.turtle-node.me",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "GoCrypto Romania",
+      "url": "turtlenode.gocrypto.ro",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "greywolf Germany",
+      "url": "turtlenode.co",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Hashvault.pro turtle node",
+      "url": "nodes.hashvault.pro",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Hungarian turtle node",
       "url": "79.122.99.180",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "PUBLIC",
+      "name": "'Italia Turtle Coin",
+      "url": "212.237.58.46",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "NL - turtle-node.me",
+      "url": "nl.turtle-node.me",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Pecunia Italian Node",
+      "url": "turtle.pecunia.network",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "PUBLIC - public.turtlenode.io",
       "url": "public.turtlenode.io",
       "port": 11898,
       "ssl": false
@@ -73,8 +193,56 @@
       "ssl": false
     },
     {
-      "name": "skinner.aus",
-      "url": "skinnerturtle.ddns.net",
+      "name": "public.turtlenode.online",
+      "url": "public.turtlenode.online",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "TRTL.io - US East",
+      "url": "node.trtl.io",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "TRTLnode4whales",
+      "url": "trtl.node4whales.tk",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "TRTL-STORE",
+      "url": "node.trtl-store.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "TRTL - turtle-node.me",
+      "url": "trtl.turtle-node.me",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "trtl.urmom.lol",
+      "url": "trtl.urmom.lol",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Turtleland.fun - Asia",
+      "url": "asia.turtleland.fun",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Turtleland.fun - US",
+      "url": "us.turtleland.fun",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "turtle-japakar",
+      "url": "turtle.japakar.com",
       "port": 11898,
       "ssl": false
     },
@@ -121,20 +289,56 @@
       "ssl": false
     },
     {
-      "name": "US-EAST",
-      "url": "us-east.turtlenode.io",
+      "name": "turtle.mine.nu",
+      "url": "turtle.mine.nu",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "US-WEST",
-      "url": "us-west.turtlenode.io",
+      "name": "turtle.moxiemoe.io",
+      "url": "turtle.moxiemoe.io",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "UK - turtle-node.me",
+      "url": "uk.turtle-node.me",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "US - turtle-node.me",
+      "url": "us.turtle-node.me",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "US-EAST - us-east.turtlenode.io",
+      "url": "us-east.turtlenode.io",
       "port": 11898,
       "ssl": false
     },
     {
       "name": "Val's Node",
       "url": "val.turtlenode.online",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "VIETNAM - cryptomine.space",
+      "url": "turtlenode.cryptomine.space",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Xaz Node",
+      "url": "xaznode.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "XYZ Node1",
+      "url": "trtl01.etc-hosts.xyz",
       "port": 11898,
       "ssl": false
     }

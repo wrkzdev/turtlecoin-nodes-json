@@ -1,0 +1,27 @@
+{
+  "name": "turtlecoin-nodes-json",
+  "version": "0.0.1",
+  "description": "json list of public daemons",
+  "main": "turtlecoin-nodes.json",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/checkForDuplicates.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turtlecoin/turtlecoin-nodes-json.git"
+  },
+  "keywords": [
+    "turtlecoin",
+    "public",
+    "nodes"
+  ],
+  "author": "The TurtleCoin Developers",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/turtlecoin/turtlecoin-nodes-json/issues"
+  },
+  "homepage": "https://github.com/turtlecoin/turtlecoin-nodes-json#readme"
+}
