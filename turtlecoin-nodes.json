@@ -85,6 +85,12 @@
       "ssl": false
     },
     {
+      "name": "CryptoMine.cx",
+      "url": "trtlnode.cryptomine.cx",
+      "port": 2323,
+      "ssl": false
+    },
+    {
       "name": "CuvéeTrtl - Czech Republic",
       "url": "cuveetrtl.czech.cloud",
       "port": 11898,
@@ -315,12 +321,6 @@
     {
       "name": "Val's Node",
       "url": "val.turtlenode.online",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "VIETNAM - cryptomine.space",
-      "url": "turtlenode.cryptomine.space",
       "port": 11898,
       "ssl": false
     },
