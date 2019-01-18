@@ -87,7 +87,7 @@
     {
       "name": "CryptoMine.cx",
       "url": "trtlnode.cryptomine.cx",
-      "port": 2323,
+      "port": 29,
       "ssl": false
     },
     {
