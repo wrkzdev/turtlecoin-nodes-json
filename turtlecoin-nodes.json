@@ -79,12 +79,6 @@
       "ssl": false
     },
     {
-      "name": "Contabo - Germany",
-      "url": "vmi207638.contaboserver.net",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "CryptoMine.cx",
       "url": "trtlnode.cryptomine.cx",
       "port": 29,
