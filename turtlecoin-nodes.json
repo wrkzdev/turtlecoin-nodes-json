@@ -241,6 +241,12 @@
       "ssl": false
     },
     {
+      "name": "turtle2-japakar",
+      "url": "turtle2.japakar.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "TURTLE-NODE.COM AF",
       "url": "af.turtle-node.com",
       "port": 11898,
