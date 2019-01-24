@@ -193,6 +193,12 @@
       "ssl": false
     },
     {
+      "name": "SaaPoK TRTL Node",
+      "url": "89.234.182.12",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "TRTL.io - US East",
       "url": "node.trtl.io",
       "port": 11898,
