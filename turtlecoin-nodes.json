@@ -92,7 +92,7 @@
     },
     {
       "name": "CuvéeARMTrtl - Czech Republic",
-      "url": "http://publicnode.ydns.eu",
+      "url": "publicnode.ydns.eu",
       "port": 11898,
       "ssl": false
     },
