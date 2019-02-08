@@ -175,6 +175,12 @@
       "ssl": false
     },
     {
+      "name": "OIEIEIO",
+      "url": "173.212.213.63",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Pecunia Italian Node",
       "url": "turtle.pecunia.network",
       "port": 11898,
