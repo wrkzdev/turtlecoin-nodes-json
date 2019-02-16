@@ -97,12 +97,6 @@
       "ssl": false
     },
     {
-      "name": "EU Public Node",
-      "url": "crypto-dredge.com",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "EU - turtle-node.me",
       "url": "turtle-node.me",
       "port": 11898,
