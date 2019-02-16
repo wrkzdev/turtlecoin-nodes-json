@@ -19,12 +19,6 @@
       "ssl": false
     },
     {
-      "name": "All Europe Public Node",
-      "url": "all-europe-turtle-node.ga",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "aneki's Aussie Node",
       "url": "node.turtlecoin.club",
       "port": 11898,
@@ -63,12 +57,6 @@
     {
       "name": "Bamn! Its a blockchain!",
       "url": "bamn.spdns.de",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "CAD - Turtle.Mrmetech.com",
-      "url": "turtle1.mrmetech.com",
       "port": 11898,
       "ssl": false
     },
