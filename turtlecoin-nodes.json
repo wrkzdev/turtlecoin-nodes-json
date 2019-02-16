@@ -73,6 +73,12 @@
       "ssl": false
     },
     {
+      "name": "Canadian Turtle Public Node",
+      "url": "dkc-hvac.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "CHRISCRYPTO",
       "url": "trtlco.in",
       "port": 11898,
