@@ -149,6 +149,12 @@
       "url": "val.turtlenode.online",
       "port": 11898,
       "ssl": false
-    }
+    },
+    {
+      "name": "Vader`s little Node",
+      "url": "5.147.166.154",
+      "port": 11898,
+      "ssl": false
+    } 
   ]
 }
