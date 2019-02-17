@@ -7,8 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "node tests/checkForDuplicates.js",
-    "test:complete": "node tests/checkAlphaNumeric.js"
+    "test": "node tests/checkForDuplicates.js && node tests/checkAlphaNumeric.js"
   },
   "repository": {
     "type": "git",
