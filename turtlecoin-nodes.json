@@ -31,14 +31,14 @@
       "ssl": false
     },
     {
-      "name": "CuvéeTrtl - Czech Republic",
-      "url": "cuveetrtl.czech.cloud",
+      "name": "CuvéeARMTrtl - Czech Republic",
+      "url": "publicnode.ydns.eu",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "CuvéeARMTrtl - Czech Republic",
-      "url": "publicnode.ydns.eu",
+      "name": "CuvéeTrtl - Czech Republic",
+      "url": "cuveetrtl.czech.cloud",
       "port": 11898,
       "ssl": false
     },
@@ -145,16 +145,16 @@
       "ssl": false
     },
     {
-      "name": "Val's Node",
-      "url": "val.turtlenode.online",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "Vader`s little Node",
       "url": "5.147.166.154",
       "port": 11898,
       "ssl": false
-    } 
+    },
+    {
+      "name": "Val's Node",
+      "url": "val.turtlenode.online",
+      "port": 11898,
+      "ssl": false
+    }
   ]
 }
