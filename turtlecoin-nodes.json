@@ -110,13 +110,13 @@
     },
     {
       "name": "Turtleland.fun - Asia",
-      "url": "asia.turtleland.fun",
+      "url": "asia2.turtleland.fun",
       "port": 11898,
       "ssl": false
     },
     {
       "name": "Turtleland.fun - US",
-      "url": "us.turtleland.fun",
+      "url": "us2.turtleland.fun",
       "port": 11898,
       "ssl": false
     },
