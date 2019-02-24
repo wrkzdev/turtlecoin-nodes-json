@@ -161,6 +161,6 @@
       "url": "val.turtlenode.online",
       "port": 11898,
       "ssl": false
-    },
+    }
   ]
 }
