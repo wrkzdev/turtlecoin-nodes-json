@@ -73,6 +73,12 @@
       "ssl": false
     },
     {
+      "name": "HUNTRTL Node",
+      "url": "78.139.61.109",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Pecunia Italian Node",
       "url": "turtle.pecunia.network",
       "port": 11898,
@@ -153,12 +159,6 @@
     {
       "name": "Val's Node",
       "url": "val.turtlenode.online",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "HUN TRTL Node",
-      "url": "78.139.61.109",
       "port": 11898,
       "ssl": false
     },
