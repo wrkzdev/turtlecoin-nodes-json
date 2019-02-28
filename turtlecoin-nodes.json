@@ -103,6 +103,12 @@
       "ssl": false
     },
     {
+      "name": "Russia TRTL Node",
+      "url": "188.68.161.98",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "SaaPoK TRTL Node",
       "url": "89.234.182.12",
       "port": 11898,
