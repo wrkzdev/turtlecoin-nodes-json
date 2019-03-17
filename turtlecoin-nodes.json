@@ -127,20 +127,14 @@
       "ssl": false
     },
     {
-      "name": "Turtleland.fun - Asia",
-      "url": "asia2.turtleland.fun",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "Turtleland.fun - US",
-      "url": "us2.turtleland.fun",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "turtle-japakar",
       "url": "turtle.japakar.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "turtle.mine.nu",
+      "url": "turtle.mine.nu",
       "port": 11898,
       "ssl": false
     },
@@ -151,8 +145,14 @@
       "ssl": false
     },
     {
-      "name": "turtle.mine.nu",
-      "url": "turtle.mine.nu",
+      "name": "Turtleland.fun - Asia",
+      "url": "asia2.turtleland.fun",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Turtleland.fun - US",
+      "url": "us2.turtleland.fun",
       "port": 11898,
       "ssl": false
     },
