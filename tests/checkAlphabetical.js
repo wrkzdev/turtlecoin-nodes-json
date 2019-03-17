@@ -18,4 +18,9 @@ const originalHash = sha256(names)
 names.sort()
 const sortedHash = sha256(names)
 
+console.log('')
+console.log('Alphabetically Sorted Order')
+console.log('===========================')
+names.forEach(name => console.log(name))
+
 assert(originalHash === sortedHash)
