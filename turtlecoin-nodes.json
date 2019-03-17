@@ -7,6 +7,12 @@
       "ssl": false
     },
     {
+      "name": "stroppy.tk 2 TRTL Fee",
+      "url": "stroppy.ddns.net",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Austria node - Turtle.Land",
       "url": "node.turtle.land",
       "port": 11898,
