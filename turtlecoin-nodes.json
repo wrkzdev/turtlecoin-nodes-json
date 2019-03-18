@@ -29,6 +29,18 @@
       "url": "dkc-hvac.com",
       "port": 11898,
       "ssl": false
+    }, 
+    {
+      "name": "CryptoMine Turtle Public Node - 2.90 TRTL Fee",
+      "url": "trtlnode.cryptomine.cx",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "CryptoHub Turtle Public Node - 0.99 TRTL Fee",
+      "url": "turtlecoin-node.cryptohub.dev",
+      "port": 11898,
+      "ssl": false
     },
     {
       "name": "CuvéeARMTrtl - Czech Republic",
@@ -45,6 +57,12 @@
     {
       "name": "EU - Turtlepool public nodes - 10TRTL Fee",
       "url": "node.turtlepool.space",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Enigma-Mining Turtle Public Node - 1.00 TRTL Fee",
+      "url": "trtlnode.enigma-mining.de",
       "port": 11898,
       "ssl": false
     },
