@@ -31,6 +31,12 @@
       "ssl": false
     },
     {
+      "name": "Coinpoolit Italian Turtle Node",
+      "url": "coinpoolit.webhop.me",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "CryptoHub Turtle Public Node - 0.99 TRTL Fee",
       "url": "turtlecoin-node.cryptohub.dev",
       "port": 11898,
