@@ -31,6 +31,12 @@
       "ssl": false
     },
     {
+      "name": "chaosakos-cz",
+      "url": "37.205.11.206",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Coinpoolit Italian Turtle Node",
       "url": "coinpoolit.webhop.me",
       "port": 11898,
