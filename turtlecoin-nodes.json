@@ -25,6 +25,12 @@
       "ssl": false
     },
     {
+      "name": "Blast's Public TRTL Node",
+      "url": "18.184.77.206",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Canadian Turtle Public Node",
       "url": "mine2.live",
       "port": 11898,
