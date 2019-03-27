@@ -85,6 +85,12 @@
       "ssl": false
     },
     {
+      "name": "Geobalancing - nodes.rentals",
+      "url": "rpc.nodes.rentals",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "GoCrypto Romania",
       "url": "turtlenode.gocrypto.ro",
       "port": 11898,
