@@ -43,6 +43,12 @@
       "ssl": false
     },
     {
+      "name": "Chimaera Node",
+      "url": "144.76.94.42",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Coinpoolit Italian Turtle Node",
       "url": "coinpoolit.webhop.me",
       "port": 11898,
