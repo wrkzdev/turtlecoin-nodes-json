@@ -176,7 +176,7 @@
     },
     {
       "name": "trtl.pro turtle node",
-      "url": "nodes.trtl.pro",
+      "url": "node.trtl.pro",
       "port": 11898,
       "ssl": false
     },
