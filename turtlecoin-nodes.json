@@ -175,6 +175,12 @@
       "ssl": false
     },
     {
+      "name": "trtl.pro turtle node",
+      "url": "nodes.trtl.pro",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "trtl.urmom.lol",
       "url": "trtl.urmom.lol",
       "port": 11898,
