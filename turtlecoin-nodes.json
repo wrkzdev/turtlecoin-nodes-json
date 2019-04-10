@@ -31,6 +31,12 @@
       "ssl": false
     },
     {
+      "name": "Btron's Public TRTL Node",
+      "url": "trtl.btron.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Canadian Turtle Public Node",
       "url": "mine2.live",
       "port": 11898,
