@@ -175,6 +175,12 @@
       "ssl": false
     },
     {
+      "name": "Sopinka Snapper",
+      "url": "trtl.sopinka.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "stroppy.tk 2.5 TRTL Fee",
       "url": "trtl-stroppy.ddns.net",
       "port": 11898,
