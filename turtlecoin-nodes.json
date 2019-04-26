@@ -176,6 +176,13 @@
       "cache": false
     },
     {
+      "name": "PUBLIC SSL TurtleNode NET",
+      "url": "public.turtlenode.net",
+      "port": 443,
+      "ssl": true,
+      "cache": false
+    },
+    {
       "name": "PUBLIC TurtleNode NET",
       "url": "public.turtlenode.net",
       "port": 11898,
