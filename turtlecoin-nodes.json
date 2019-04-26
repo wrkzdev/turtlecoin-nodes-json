@@ -76,10 +76,17 @@
       "port": 11898,
       "ssl": false,
       "cache": false
-    },
+    },    
     {
       "name": "CryptoMine Turtle Public Node - 2.90 TRTL Fee",
       "url": "trtlnode.cryptomine.cx",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Cryptot.cc public node1",
+      "url": "199.247.26.39",
       "port": 11898,
       "ssl": false,
       "cache": false
