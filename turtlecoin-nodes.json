@@ -86,7 +86,7 @@
     },
     {
       "name": "Cryptot.cc public node1",
-      "url": "199.247.26.39",
+      "url": "tleunode1.cryptot.cc",
       "port": 11898,
       "ssl": false,
       "cache": false
