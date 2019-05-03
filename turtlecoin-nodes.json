@@ -71,14 +71,21 @@
       "cache": false
     },
     {
-      "name": "CryptoHub Turtle Public Node - 0.99 TRTL Fee",
-      "url": "turtlecoin-node.cryptohub.dev",
-      "port": 11898,
+      "name": "CryptoHub Turtle Blockchain Cache - 5 TRTL Fee",
+      "url": "turtle.api.cryptomine.cx",
+      "port": 80,
       "ssl": false,
-      "cache": false
+      "cache": true
+    },
+    {
+      "name": "CryptoHub Turtle Blockchain Cache - SSL - 5 TRTL Fee",
+      "url": "turtle.api.cryptohub.dev",
+      "port": 443,
+      "ssl": true,
+      "cache": true
     },    
     {
-      "name": "CryptoMine Turtle Public Node - 2.90 TRTL Fee",
+      "name": "CryptoMine Turtle Public Node - 2.50 TRTL Fee",
       "url": "trtlnode.cryptomine.cx",
       "port": 11898,
       "ssl": false,
