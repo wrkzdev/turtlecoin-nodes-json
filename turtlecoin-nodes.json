@@ -295,6 +295,13 @@
       "cache": false
     },
     {
+      "name": "Turtlenode - CHINA",
+      "url": "publicnodes.turtlecoinchina.com",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "TurtlePay Blockchain Cache",
       "url": "node.trtlpay.com",
       "port": 80,
