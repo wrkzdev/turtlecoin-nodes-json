@@ -127,13 +127,6 @@
       "cache": false
     },
     {
-      "name": "EU - Turtlepool public nodes - 10TRTL Fee",
-      "url": "node.turtlepool.space",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Geobalancing - nodes.rentals",
       "url": "rpc.nodes.rentals",
       "port": 11898,
