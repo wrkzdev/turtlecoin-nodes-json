@@ -127,6 +127,13 @@
       "cache": false
     },
     {
+      "name": "Fast Stable Hong Kong Turtle Node",
+      "url": "turtlenode.top",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Geobalancing - nodes.rentals",
       "url": "rpc.nodes.rentals",
       "port": 11898,
