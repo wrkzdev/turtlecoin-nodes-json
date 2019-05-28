@@ -134,6 +134,13 @@
       "cache": false
     },
     {
+      "name": "Free Public Turtle Node - Asia",
+      "url": "trtlnode.top",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Geobalancing - nodes.rentals",
       "url": "rpc.nodes.rentals",
       "port": 11898,
