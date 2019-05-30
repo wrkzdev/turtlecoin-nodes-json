@@ -190,6 +190,13 @@
       "cache": false
     },
     {
+      "name": "Ontario Turtle",
+      "url": "tonyturtle.mooo.com",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Pecunia Italian Node",
       "url": "turtle.pecunia.network",
       "port": 11898,
