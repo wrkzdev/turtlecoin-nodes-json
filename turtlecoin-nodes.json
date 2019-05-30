@@ -323,13 +323,6 @@
       "cache": true
     },
     {
-      "name": "US TurtleCoin Node",
-      "url": "us.turtle.coinmer.ch",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "US-EAST - us-east.turtlenode.io",
       "url": "us-east.turtlenode.io",
       "port": 11898,
