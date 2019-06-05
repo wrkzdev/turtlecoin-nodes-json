@@ -120,6 +120,13 @@
       "cache": false
     },
     {
+      "name": "Dias Turtle Node",
+      "url": "195.130.72.123",
+      "port": 11898,
+      "ssl": false,
+      "cache": false      
+    },
+    {
       "name": "Enigma-Mining Turtle Public Node - 1.00 TRTL Fee",
       "url": "trtlnode.enigma-mining.de",
       "port": 11898,
