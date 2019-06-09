@@ -274,13 +274,6 @@
       "cache": false
     },
     {
-      "name": "trtl.settetoris.pet",
-      "url": "trtl.settetoris.pet",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "turtle-japakar",
       "url": "turtle.japakar.com",
       "port": 11898,
@@ -335,6 +328,13 @@
       "port": 443,
       "ssl": true,
       "cache": true
+    },
+    {
+      "name": "URMOM'S NODE - Much fast, very steady",
+      "url": "trtl.urmom.lol",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "US-EAST - us-east.turtlenode.io",
