@@ -78,6 +78,14 @@
       "cache": false
     },
     {
+      "name": "Contabo-based SSD-powered Turtle Node",
+      "url": "91.205.175.190",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    
+    {
       "name": "CryptoHub Turtle Blockchain Cache - 5 TRTL Fee",
       "url": "turtle.api.cryptomine.cx",
       "port": 80,
