@@ -204,6 +204,13 @@
       "cache": false
     },
     {
+      "name": "Network 7 Slow Node - 10 TRTL",
+      "url": "nodes.trtl.nu",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Nutmeg Hash - Tokyo 5 TRTL",
       "url": "35.189.150.102",
       "port": 11898,
