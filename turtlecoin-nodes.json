@@ -198,7 +198,7 @@
     },
     {
       "name": "Network 7 Premium Node - 700 TRTL",
-      "url": "node0.turtlecoin.nu",
+      "url": "nodes.turtlecoin.nu",
       "port": 11898,
       "ssl": false,
       "cache": false
