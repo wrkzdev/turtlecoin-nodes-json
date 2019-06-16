@@ -84,7 +84,6 @@
       "ssl": false,
       "cache": false
     },
-    
     {
       "name": "CryptoHub Turtle Blockchain Cache - 5 TRTL Fee",
       "url": "turtle.api.cryptomine.cx",
