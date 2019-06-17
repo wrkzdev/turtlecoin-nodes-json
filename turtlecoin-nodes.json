@@ -127,6 +127,13 @@
       "cache": false
     },
     {
+      "name": "Dawns turtle node",
+      "url": "79.44.78.4",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Dias Turtle Node",
       "url": "195.130.72.123",
       "port": 11898,
