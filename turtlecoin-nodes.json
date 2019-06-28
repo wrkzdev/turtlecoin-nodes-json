@@ -1,19 +1,5 @@
 {
   "nodes": [
-      {
-      "name": "aneki's FAST, Stable Premium Server - 1000 TRTL Fee",
-      "url": "node.trtl.se",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },   
-    {
-      "name": "aneki's SLOW Sewer Node - 25 TRTL Fee",
-      "url": "sewer.turtlecoin.club",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
     {
       "name": "Austria node - Turtle.Land",
       "url": "node.turtle.land",
