@@ -1,43 +1,8 @@
 {
   "nodes": [
     {
-      "name": "Austria node - Turtle.Land",
-      "url": "node.turtle.land",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "BalticBlockchain - Public Node",
-      "url": "balticblockchain.de",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Bamn! Its a blockchain!",
       "url": "bamn.spdns.de",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Blast's Public TRTL Node",
-      "url": "18.195.86.234",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Btron's Public TRTL Node",
-      "url": "trtl.btron.com",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Canadian Turtle Public Node",
-      "url": "mine2.live",
       "port": 11898,
       "ssl": false,
       "cache": false
@@ -50,22 +15,8 @@
       "cache": false
     },
     {
-      "name": "Chimaera Node",
-      "url": "144.76.94.42",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Coinpoolit Italian Turtle Node",
       "url": "coinpoolit.webhop.me",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Contabo-based SSD-powered Turtle Node",
-      "url": "91.205.175.190",
       "port": 11898,
       "ssl": false,
       "cache": false
@@ -85,20 +36,6 @@
       "cache": true
     },    
     {
-      "name": "CryptoMine Turtle Public Node - 2.50 TRTL Fee",
-      "url": "trtlnode.cryptomine.cx",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Cryptot.cc public node1",
-      "url": "tleunode1.cryptot.cc",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "CuvéeARMTrtl - Czech Republic",
       "url": "publicnode.ydns.eu",
       "port": 11898,
@@ -112,28 +49,7 @@
       "ssl": false,
       "cache": false
     },
-    {
-      "name": "Dias Turtle Node",
-      "url": "195.130.72.123",
-      "port": 11898,
-      "ssl": false,
-      "cache": false      
-    },
-    {
-      "name": "Easy Turtle Node",
-      "url": "easyturtlenode.ns0.it",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Enigma-Mining Turtle Public Node - 1.00 TRTL Fee",
-      "url": "trtlnode.enigma-mining.de",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
+     {
       "name": "Fast Stable Hong Kong Turtle Node",
       "url": "turtlenode.top",
       "port": 11898,
@@ -169,29 +85,8 @@
       "cache": false
     },
     {
-      "name": "HA Turtle Node",
-      "url": "turtle.hapool.pw",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Hashvault.pro turtle node",
       "url": "nodes.hashvault.pro",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Hungarian turtle node",
-      "url": "79.122.99.180",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "HUNTRTL Node",
-      "url": "78.139.61.109",
       "port": 11898,
       "ssl": false,
       "cache": false
@@ -204,36 +99,8 @@
       "cache": false
     },
     {
-      "name": "Network 7 Premium Node - 700 TRTL",
-      "url": "nodes.turtlecoin.nu",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Network 7 Slow Node - 10 TRTL",
-      "url": "nodes.trtl.nu",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Nutmeg Hash - Tokyo 5 TRTL",
-      "url": "35.189.150.102",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Ontario Turtle",
       "url": "tonyturtle.mooo.com",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Pecunia Italian Node",
-      "url": "turtle.pecunia.network",
       "port": 11898,
       "ssl": false,
       "cache": false
@@ -267,29 +134,8 @@
       "cache": false
     },
     {
-      "name": "Russian TRTL Node",
-      "url": "trtlnode.space",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "SaaPoK TRTL Node",
       "url": "89.234.182.12",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Sopinka Snapper",
-      "url": "trtl.sopinka.com",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "stroppyscryptos.net",
-      "url": "stroppyscryptos.ddns.net",
       "port": 11898,
       "ssl": false,
       "cache": false
@@ -304,13 +150,6 @@
     {
       "name": "turtle-japakar",
       "url": "turtle.japakar.com",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "turtle.mine.nu",
-      "url": "turtle.mine.nu",
       "port": 11898,
       "ssl": false,
       "cache": false
@@ -367,20 +206,6 @@
     {
       "name": "US-EAST - us-east.turtlenode.io",
       "url": "us-east.turtlenode.io",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Vader`s little Node",
-      "url": "5.147.166.154",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Val's Node",
-      "url": "val.turtlenode.online",
       "port": 11898,
       "ssl": false,
       "cache": false
