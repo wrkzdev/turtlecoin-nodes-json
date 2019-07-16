@@ -49,6 +49,13 @@
       "ssl": false,
       "cache": false
     },
+    {
+      "name": "EU - Turtlepool public nodes - 10TRTL Fee",
+      "url": "node.turtlepool.space",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
      {
       "name": "Fast Stable Hong Kong Turtle Node",
       "url": "turtlenode.top",
@@ -195,13 +202,6 @@
       "port": 443,
       "ssl": true,
       "cache": true
-    },
-    {
-      "name": "EU - Turtlepool public nodes - 10TRTL Fee",
-      "url": "node.turtlepool.space",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
     },
     {
       "name": "URMOM'S NODE - Much fast, very steady",
