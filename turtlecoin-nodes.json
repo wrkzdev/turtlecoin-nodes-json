@@ -197,6 +197,13 @@
       "cache": false
     },
     {
+      "name": "TurtleNode.org (EU)",
+      "url": "eu.turtlenode.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "TurtlePay Blockchain Cache",
       "url": "node.trtlpay.com",
       "port": 80,
