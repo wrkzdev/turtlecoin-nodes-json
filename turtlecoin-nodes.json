@@ -148,15 +148,15 @@
       "cache": false
     },
     {
-      "name": "TRTL@MEDIATAO.EU - 11,11 TRTL Fee",
-      "url": "62.210.137.119",
+      "name": "trtl.pro turtle node",
+      "url": "node.trtl.pro",
       "port": 11898,
       "ssl": false,
       "cache": false
     },
     {
-      "name": "trtl.pro turtle node",
-      "url": "node.trtl.pro",
+      "name": "TRTL@MEDIATAO.EU - 11,11 TRTL Fee",
+      "url": "62.210.137.119",
       "port": 11898,
       "ssl": false,
       "cache": false
