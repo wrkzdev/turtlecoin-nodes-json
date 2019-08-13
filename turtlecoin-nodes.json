@@ -219,9 +219,9 @@
     },
     {
       "name": "URMOM'S NODE - Much fast, very steady",
-      "url": "trtl.urmom.lol",
-      "port": 11898,
-      "ssl": false,
+      "url": "lol.urmom.lol",
+      "port": 443,
+      "ssl": true,
       "cache": false
     },
     {
