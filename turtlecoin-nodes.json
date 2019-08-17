@@ -134,6 +134,13 @@
       "cache": false
     },
     {
+      "name": "pumba's junction - 0.01 TRTL fee",
+      "url": "193.106.131.213",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "SaaPoK TRTL Node",
       "url": "89.234.182.12",
       "port": 11898,
