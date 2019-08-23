@@ -204,8 +204,15 @@
       "cache": false
     },
     {
-      "name": "TurtleNode.org (EU)",
-      "url": "eu.turtlenode.org",
+      "name": "TurtleNode.org - Europe(AMS1)",
+      "url": "ams1.turtlenode.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "TurtleNode.org - Europe(PAR1)",
+      "url": "par1.turtlenode.org",
       "port": 11898,
       "ssl": false,
       "cache": false
