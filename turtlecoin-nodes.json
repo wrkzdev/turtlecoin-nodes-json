@@ -57,6 +57,13 @@
       "cache": false
     },
     {
+      "name": "Turtlenode - RUSSIA",
+      "url": "tdrecord.ddns.net",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "TurtleNode.org - Europe(AMS1)",
       "url": "ams1.turtlenode.org",
       "port": 11898,
