@@ -1,13 +1,6 @@
 {
   "nodes": [
     {
-      "name": "Bamn! Its a blockchain!",
-      "url": "bamn.spdns.de",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "chaosakos-cz",
       "url": "trtl.chaosakos.xyz",
       "port": 11898,
@@ -22,29 +15,8 @@
       "cache": false
     },
     {
-      "name": "CryptoHub Turtle Blockchain Cache - 5 TRTL Fee",
-      "url": "turtle.api.cryptomine.cx",
-      "port": 80,
-      "ssl": false,
-      "cache": true
-    },
-    {
-      "name": "CryptoHub Turtle Blockchain Cache - SSL - 5 TRTL Fee",
-      "url": "turtle.api.cryptohub.dev",
-      "port": 443,
-      "ssl": true,
-      "cache": true
-    },    
-    {
       "name": "CuvéeARMTrtl - Czech Republic",
       "url": "publicnode.ydns.eu",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "CuvéeTrtl - Czech Republic",
-      "url": "cuveetrtl.czech.cloud",
       "port": 11898,
       "ssl": false,
       "cache": false
@@ -56,51 +28,9 @@
       "ssl": false,
       "cache": false
     },
-     {
-      "name": "Fast Stable Hong Kong Turtle Node",
-      "url": "turtlenode.top",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Free Public Turtle Node - Asia",
-      "url": "trtlnode.top",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Geobalancing - nodes.rentals",
-      "url": "rpc.nodes.rentals",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "GoCrypto Romania",
-      "url": "turtlenode.gocrypto.ro",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Hashvault.pro turtle node",
-      "url": "nodes.hashvault.pro",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
     {
       "name": "jakesys.tech - US-SOUTH",
       "url": "trtl.jakesys.tech",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Ontario Turtle",
-      "url": "tonyturtle.mooo.com",
       "port": 11898,
       "ssl": false,
       "cache": false
@@ -120,73 +50,10 @@
       "cache": false
     },
     {
-      "name": "public.turtlenode.online",
-      "url": "public.turtlenode.online",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "pumba's junction SSL",
       "url": "pumba.online",
       "port": 443,
       "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "SaaPoK TRTL Node",
-      "url": "89.234.182.12",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "trtl.pro turtle node",
-      "url": "node.trtl.pro",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "TRTL@MEDIATAO.EU - 11,11 TRTL Fee",
-      "url": "62.210.137.119",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "turtle-japakar",
-      "url": "turtle.japakar.com",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "turtle2-japakar",
-      "url": "turtle2.japakar.com",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Turtleland.fun - Asia",
-      "url": "asia2.turtleland.fun",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Turtleland.fun - US",
-      "url": "us2.turtleland.fun",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Turtlenode - CHINA",
-      "url": "publicnodes.turtlecoinchina.com",
-      "port": 11898,
-      "ssl": false,
       "cache": false
     },
     {
