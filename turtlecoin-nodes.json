@@ -29,6 +29,13 @@
       "cache": false
     },
     {
+      "name": "Hashvault.pro turtle node",
+      "url": "nodes.hashvault.pro",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "jakesys.tech - US-SOUTH",
       "url": "trtl.jakesys.tech",
       "port": 11898,
