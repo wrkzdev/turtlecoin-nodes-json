@@ -77,6 +77,20 @@
       "cache": false
     },
     {
+      "name": "Turtleland.fun - Asia",
+      "url": "asia2.turtleland.fun",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Turtleland.fun - US",
+      "url": "us2.turtleland.fun",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Turtlenode - RUSSIA",
       "url": "tdrecord.ddns.net",
       "port": 11898,
