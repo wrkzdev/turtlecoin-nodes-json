@@ -84,13 +84,6 @@
       "cache": false
     },
     {
-      "name": "pumba's junction SSL",
-      "url": "pumba.online",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
       "name": "Turtleland.fun - Asia",
       "url": "asia2.turtleland.fun",
       "port": 11898,
