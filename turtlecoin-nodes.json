@@ -48,6 +48,13 @@
       "ssl": false,
       "cache": false
     },
+    { 
+      "name": "Larry's Turtlecoin Node - USA",
+      "url": "turtlecoin.dynu.net",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
     {
       "name": "node.trtl.pro",
       "url": "node.trtl.pro",
