@@ -65,7 +65,7 @@
     {
       "name": "Proton Node",
       "url": "node.getproton.org",
-      "port": 11898,
+      "port": 80,
       "ssl": false,
       "cache": false
     },
