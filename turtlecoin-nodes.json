@@ -77,6 +77,13 @@
       "cache": false
     },
     {
+      "name": "Shells - Turtlehouse",
+      "url": "turtlenode.hopto.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Turtleland.fun - Asia",
       "url": "asia2.turtleland.fun",
       "port": 11898,
