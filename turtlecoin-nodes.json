@@ -63,6 +63,13 @@
       "cache": false
     },
     {
+      "name": "Petar's TRTL Node",
+      "url": "173.212.233.210",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "PUBLIC SSL TurtleNode NET",
       "url": "public.turtlenode.net",
       "port": 443,
