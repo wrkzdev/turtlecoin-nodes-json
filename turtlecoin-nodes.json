@@ -1,5 +1,6 @@
 {
   "nodes": [
+    
     {
       "name": "chaosakos-cz",
       "url": "trtl.chaosakos.xyz",
@@ -86,6 +87,13 @@
     {
       "name": "Shells - Turtlehouse",
       "url": "turtlenode.hopto.org",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Shelly",
+      "url": "122.110.191.87:11898",
       "port": 11898,
       "ssl": false,
       "cache": false
