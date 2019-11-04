@@ -16,8 +16,22 @@
       "cache": false
     },
     {
-      "name": "CuvéeARMTrtl - Czech Republic",
+      "name": "Cuvéebits - Czech Republic",
       "url": "publicnode.ydns.eu",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Cuvéebits - Romania",
+      "url": "46.214.70.196",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Cuvéebits - United Kingdom",
+      "url": "cuveetrtl.czech.cloud",
       "port": 11898,
       "ssl": false,
       "cache": false
