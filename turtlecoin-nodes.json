@@ -106,7 +106,7 @@
       "cache": false
     },
     {
-      "name": "Shelly - Shellys node of love",
+      "name": "Shelly",
       "url": "122.110.191.87",
       "port": 11898,
       "ssl": false,
