@@ -1,148 +1,47 @@
 {
   "nodes": [
+    
     {
-      "name": "'2girls1node' public node",
-      "url": "2girls1node.imhard4.men",
+      "name": "chaosakos-cz",
+      "url": "trtl.chaosakos.xyz",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "'50 Turtle' public node",
-      "url": "turtle-node.tk",
+      "name": "Coinpoolit Italian Turtle Node",
+      "url": "coinpoolit.webhop.me",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "’A German public node",
-      "url": "40.115.43.33",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "All Europe Public Node",
-      "url": "all-europe-turtle-node.ga",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "aneki's Aussie Node",
-      "url": "node.turtlecoin.club",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "aneki's Sewer Node - 2.5 TRTL Fee",
-      "url": "sewer.turtlecoin.club",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "Australia - Thingyweb.com",
-      "url": "node.turtlecoin.thingyweb.com",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "Austria node - Turtle.Land",
-      "url": "node.turtle.land",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "Balkans Public Node",
-      "url": "turtlecoin.mywire.org",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "BalticBlockchain - Public Node",
-      "url": "balticblockchain.de",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "Bamn! Its a blockchain!",
-      "url": "bamn.spdns.de",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "CAD - Turtle.Mrmetech.com",
-      "url": "turtle1.mrmetech.com",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "CHRISCRYPTO",
-      "url": "trtlco.in",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "CryptoMine.cx",
-      "url": "trtlnode.cryptomine.cx",
-      "port": 29,
-      "ssl": false
-    },
-    {
-      "name": "CuvéeTrtl - Czech Republic",
-      "url": "cuveetrtl.czech.cloud",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "CuvéeARMTrtl - Czech Republic",
+      "name": "Cuvéebits - Czech Republic",
       "url": "publicnode.ydns.eu",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "Daemon.Turtle.Link",
-      "url": "daemon.turtle.link",
+      "name": "Cuvéebits - Romania",
+      "url": "46.214.70.196",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "EU Public Node",
-      "url": "crypto-dredge.com",
+      "name": "Cuvéebits - United Kingdom",
+      "url": "cuveetrtl.czech.cloud",
       "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "EU - turtle-node.me",
-      "url": "turtle-node.me",
-      "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "EU - Turtlepool public nodes - 10TRTL Fee",
       "url": "node.turtlepool.space",
       "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "EU2 - turtle-node.me",
-      "url": "eu.turtle-node.me",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "fr.trtl.no",
-      "url": "fr.trtl.no",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "FR - turtle-node.me",
-      "url": "fr.turtle-node.me",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "GoCrypto Romania",
-      "url": "turtlenode.gocrypto.ro",
-      "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "greywolf Germany",
@@ -154,199 +53,134 @@
       "name": "Hashvault.pro turtle node",
       "url": "nodes.hashvault.pro",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "Hungarian turtle node",
-      "url": "79.122.99.180",
+      "name": "jakesys.tech - US-SOUTH",
+      "url": "trtl.jakesys.tech",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
+    },
+    { 
+      "name": "Larry's Turtlecoin Node - USA",
+      "url": "turtlecoin.dynu.net",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "'Italia Turtle Coin",
-      "url": "212.237.58.46",
+      "name": "node.trtl.pro",
+      "url": "node.trtl.pro",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "NL - turtle-node.me",
-      "url": "nl.turtle-node.me",
+      "name": "Petar's TRTL Node",
+      "url": "173.212.233.210",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "Pecunia Italian Node",
-      "url": "turtle.pecunia.network",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "PUBLIC - public.turtlenode.io",
-      "url": "public.turtlenode.io",
-      "port": 11898,
-      "ssl": false
+      "name": "PUBLIC SSL TurtleNode NET",
+      "url": "public.turtlenode.net",
+      "port": 443,
+      "ssl": true,
+      "cache": false
     },
     {
       "name": "PUBLIC TurtleNode NET",
       "url": "public.turtlenode.net",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "public.turtlenode.online",
-      "url": "public.turtlenode.online",
+      "name": "Shells - Turtlehouse",
+      "url": "turtlenode.hopto.org",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "SaaPoK TRTL Node",
-      "url": "89.234.182.12",
+      "name": "Shelly",
+      "url": "122.110.191.87",
       "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "TRTL.io - US East",
-      "url": "node.trtl.io",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "TRTLnode4whales",
-      "url": "trtl.node4whales.tk",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "TRTL-STORE",
-      "url": "node.trtl-store.com",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "TRTL - turtle-node.me",
-      "url": "trtl.turtle-node.me",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "trtl.urmom.lol",
-      "url": "trtl.urmom.lol",
-      "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "Turtleland.fun - Asia",
-      "url": "asia.turtleland.fun",
+      "url": "asia2.turtleland.fun",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "Turtleland.fun - US",
-      "url": "us.turtleland.fun",
+      "url": "us2.turtleland.fun",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "turtle-japakar",
-      "url": "turtle.japakar.com",
+      "name": "Turtlenode - RUSSIA",
+      "url": "tdrecord.ddns.net",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "turtle2-japakar",
-      "url": "turtle2.japakar.com",
+      "name": "TurtleNode.org - Europe(AMS1)",
+      "url": "ams1.turtlenode.org",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "TURTLE-NODE.COM AF",
-      "url": "af.turtle-node.com",
+      "name": "TurtleNode.org - Europe(PAR1)",
+      "url": "par1.turtlenode.org",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "TURTLE-NODE.COM AS",
-      "url": "as.turtle-node.com",
-      "port": 11898,
-      "ssl": false
+      "name": "TurtlePay Blockchain Cache",
+      "url": "node.trtlpay.com",
+      "port": 80,
+      "ssl": false,
+      "cache": true
     },
     {
-      "name": "TURTLE-NODE.COM EU",
-      "url": "eu.turtle-node.com",
-      "port": 11898,
-      "ssl": false
+      "name": "TurtlePay Blockchain Cache - SSL",
+      "url": "blockapi.turtlepay.io",
+      "port": 443,
+      "ssl": true,
+      "cache": true
     },
     {
-      "name": "TURTLE-NODE.COM GEO",
-      "url": "geo.turtle-node.com",
-      "port": 11898,
-      "ssl": false
+      "name": "URMOM'S NODE - Much fast, very steady",
+      "url": "lol.urmom.lol",
+      "port": 443,
+      "ssl": true,
+      "cache": false
     },
     {
-      "name": "TURTLE-NODE.COM NA",
-      "url": "na.turtle-node.com",
+      "name": "US Turtle Node",
+      "url": "turtlenode.us",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
-      "name": "TURTLE-NODE.COM OC",
-      "url": "oc.turtle-node.com",
+      "name": "Vmi Turtle Node",
+      "url": "213.136.86.129",
       "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "TURTLE-NODE.COM SA",
-      "url": "sa.turtle-node.com",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "turtle.mine.nu",
-      "url": "turtle.mine.nu",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "turtle.moxie.moe",
-      "url": "turtle.moxie.moe",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "UK - turtle-node.me",
-      "url": "uk.turtle-node.me",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "US - turtle-node.me",
-      "url": "us.turtle-node.me",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "US-EAST - us-east.turtlenode.io",
-      "url": "us-east.turtlenode.io",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "Val's Node",
-      "url": "val.turtlenode.online",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "Xaz Node",
-      "url": "xaznode.com",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "XYZ Node1",
-      "url": "trtl01.etc-hosts.xyz",
-      "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     }
   ]
 }
