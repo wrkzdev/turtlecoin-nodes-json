@@ -57,6 +57,13 @@
       "cache": false
     },
     {
+      "name": "FastPooL.XyZ Turtle node - 100TRTL Fee",
+      "url": "fastpool.xyz",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "greywolf Germany",
       "url": "turtlenode.co",
       "port": 11898,
