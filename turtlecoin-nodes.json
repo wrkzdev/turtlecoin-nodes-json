@@ -1,5 +1,12 @@
 {
-  "nodes": [    
+  "nodes": [  
+    {
+      "name": "Anonymous China Node(中国区节点)",
+      "url": "122.51.37.175",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
     {
       "name": "Bot.Tips Blockchain Cache",
       "url": "trtl.bot.tips",
