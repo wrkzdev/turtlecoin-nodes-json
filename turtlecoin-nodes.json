@@ -126,6 +126,13 @@
       "cache": false
     },
     {
+      "name": "Pubnodes",
+      "url": "trtl.pubnodes.com",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Shells - Turtlehouse",
       "url": "turtlenode.hopto.org",
       "port": 11898,
