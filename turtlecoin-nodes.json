@@ -148,7 +148,7 @@
     },
     {
       "name": "Shelly",
-      "url": "122.110.191.87",
+      "url": "175.34.132.179",
       "port": 11898,
       "ssl": false,
       "cache": false
