@@ -81,7 +81,8 @@
       "name": "greywolf Germany",
       "url": "turtlenode.co",
       "port": 11898,
-      "ssl": false
+      "ssl": false,
+      "cache": false
     },
     {
       "name": "Hashvault.pro turtle node",
