@@ -1,13 +1,6 @@
 {
   "nodes": [
     {
-      "name": "Anonymous China Node(中国区节点)",
-      "url": "122.51.37.175",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "BlackMulch US Turtle Node",
       "url": "blackmulch.ddns.net",
       "port": 11898,
@@ -31,13 +24,6 @@
     {
       "name": "chaosakos-cz",
       "url": "trtl.chaosakos.xyz",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Coinpoolit Italian Turtle Node",
-      "url": "coinpoolit.webhop.me",
       "port": 11898,
       "ssl": false,
       "cache": false
@@ -92,34 +78,6 @@
       "cache": false
     },
     {
-      "name": "jakesys.tech - US-SOUTH",
-      "url": "trtl.jakesys.tech",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    { 
-      "name": "Larry's Turtlecoin Node - USA",
-      "url": "turtlecoin.dynu.net",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "node.trtl.pro",
-      "url": "node.trtl.pro",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Petar's TRTL Node",
-      "url": "173.212.233.210",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "PUBLIC SSL TurtleNode NET",
       "url": "public.turtlenode.net",
       "port": 443,
@@ -141,55 +99,6 @@
       "cache": false
     },
     {
-      "name": "Shells - Turtlehouse",
-      "url": "turtlenode.hopto.org",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Shelly",
-      "url": "175.34.132.179",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Turtleland.fun - Asia",
-      "url": "asia2.turtleland.fun",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Turtleland.fun - US",
-      "url": "us2.turtleland.fun",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Turtlenode - RUSSIA",
-      "url": "tdrecord.ddns.net",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "TurtleNode.org - Europe(AMS1)",
-      "url": "ams1.turtlenode.org",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "TurtleNode.org - Europe(PAR1)",
-      "url": "par1.turtlenode.org",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "TurtlePay Blockchain Cache",
       "url": "node.trtlpay.com",
       "port": 80,
@@ -202,20 +111,6 @@
       "port": 443,
       "ssl": true,
       "cache": true
-    },
-    {
-      "name": "URMOM'S NODE - Much fast, very steady",
-      "url": "lol.urmom.lol",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "US Turtle Node",
-      "url": "turtlenode.us",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
     },
     {
       "name": "Vmi Turtle Node",
