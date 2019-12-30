@@ -78,6 +78,12 @@
       "cache": false
     },
     {
+      "name:" "Ideas2Reality public Turtlecoin node - Germany",
+      "url": "turtlenode.i2r.tech:11898",
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "PUBLIC SSL TurtleNode NET",
       "url": "public.turtlenode.net",
       "port": 443,
