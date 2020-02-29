@@ -78,6 +78,13 @@
       "cache": false
     },
     {
+      "name": "HarryNetwork Node [UK]",
+      "url": "harrynetwork.uk.to",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Hashvault.pro turtle node",
       "url": "nodes.hashvault.pro",
       "port": 11898,
