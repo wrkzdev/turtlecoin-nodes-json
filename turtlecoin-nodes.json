@@ -111,7 +111,7 @@
       "port": 11898,
       "ssl": false,
       "cache": false
-    }
+    },
     {
       "name": "PUBLIC SSL TurtleNode NET",
       "url": "public.turtlenode.net",
