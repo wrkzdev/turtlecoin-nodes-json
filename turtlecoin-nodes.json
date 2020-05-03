@@ -78,8 +78,8 @@
       "cache": false
     },
     {
-      "name": "HarryNetwork Node [UK]",
-      "url": "harrynetwork.uk.to",
+      "name": "HarryGames Node [UK]",
+      "url": "trtl.harry.games",
       "port": 11898,
       "ssl": false,
       "cache": false
