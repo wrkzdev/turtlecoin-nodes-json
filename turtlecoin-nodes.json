@@ -8,13 +8,6 @@
       "cache": false
     },
     {
-      "name": "BlackMulch US Turtle Node",
-      "url": "trtlnode.ddns.net",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Bot.Tips Blockchain Cache",
       "url": "trtl.bot.tips",
       "port": 80,
