@@ -8,6 +8,13 @@
       "cache": false
     },
     {
+      "name": "Adam",
+      "url": "49.193.0.204",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Bot.Tips Blockchain Cache",
       "url": "trtl.bot.tips",
       "port": 80,
