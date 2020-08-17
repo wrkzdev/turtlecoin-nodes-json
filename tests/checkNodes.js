@@ -10,8 +10,6 @@ const it = require('mocha').it
 const request = require('request-promise-native')
 var masterBranchData
 
-if (!process.env.TRAVIS_PULL_REQUEST || process.env.TRAVIS_PULL_REQUEST === 'false') process.exit(0)
-
 function sha256 (msg) {
   if (typeof msg !== 'string') msg = JSON.stringify(msg)
   return crypto.createHmac('sha256', msg).digest('hex')

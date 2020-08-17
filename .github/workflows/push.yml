@@ -1,8 +1,7 @@
-name: CI Build Tests
+name: Push Check
 
 on:
   push:
-  pull_request:
 
 jobs:
   build:
@@ -21,5 +20,5 @@ jobs:
         registry-url: 'https://registry.npmjs.org'
     - name: Install Dependencies
       run: npm install
-    - name: Execute Unit Tests
+    - name: Check Format
       run: npm test
