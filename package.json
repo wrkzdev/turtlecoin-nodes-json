@@ -1,13 +1,17 @@
 {
   "name": "turtlecoin-nodes-json",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "json list of public daemons",
   "main": "turtlecoin-nodes.json",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "test": "node tests/checkForDuplicates.js && node tests/checkAlphaNumeric.js && node tests/checkAlphabetical.js && mocha tests/checkNodes.js"
+    "test": "npm run checkDupes && npm run checkAlpha && npm run checkOrder",
+    "checkDupes": "node tests/checkForDuplicates.js",
+    "checkAlpha": "node tests/checkAlphaNumeric.js",
+    "checkOrder": "node tests/checkAlphabetical.js",
+    "checkNodes": "./node_modules/.bin/mocha tests/checkNodes.js"
   },
   "repository": {
     "type": "git",
@@ -26,8 +30,8 @@
   "homepage": "https://github.com/turtlecoin/turtlecoin-nodes-json#readme",
   "devDependencies": {
     "colors": "^1.4.0",
-    "mocha": "^6.2.2",
-    "request": "^2.88.0",
-    "request-promise-native": "^1.0.8"
+    "mocha": "^8.1.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
   }
 }
