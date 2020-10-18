@@ -134,20 +134,6 @@
       "cache": false
     },
     {
-      "name": "TurtlePay Blockchain Cache",
-      "url": "node.trtlpay.com",
-      "port": 80,
-      "ssl": false,
-      "cache": true
-    },
-    {
-      "name": "TurtlePay Blockchain Cache - SSL",
-      "url": "blockapi.turtlepay.io",
-      "port": 443,
-      "ssl": true,
-      "cache": true
-    },
-    {
       "name": "Vmi Turtle Node",
       "url": "213.136.86.129",
       "port": 11898,
