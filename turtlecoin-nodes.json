@@ -15,6 +15,13 @@
       "cache": false
     },
     {
+      "name": "AT POOL PARTY",
+      "url": "node.atpool.party",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "chaosakos-cz",
       "url": "trtl.chaosakos.xyz",
       "port": 11898,
