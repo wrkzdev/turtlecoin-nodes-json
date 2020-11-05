@@ -134,6 +134,13 @@
       "cache": false
     },
     {
+      "name": "TurtlePay - Load Balancer",
+      "url": "node.turtlepay.io",
+      "port": 443,
+      "ssl": true,
+      "cache": false
+    },
+    {
       "name": "Vmi Turtle Node",
       "url": "213.136.86.129",
       "port": 11898,
