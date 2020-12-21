@@ -146,6 +146,13 @@
       "port": 11898,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "Yertle Turtle Node",
+      "url": "5.196.72.150",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
