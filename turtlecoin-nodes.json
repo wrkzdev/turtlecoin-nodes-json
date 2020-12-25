@@ -64,8 +64,15 @@
       "cache": false
     },
     {
-      "name": "FastPooL.XyZ Turtle node - 100TRTL Fee",
+      "name": "FastPooL.XyZ EU node - 10TRTL Fee",
       "url": "fastpool.xyz",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "FastPooL.XyZ US node - 10TRTL Fee",
+      "url": "us.fastpool.xyz",
       "port": 11898,
       "ssl": false,
       "cache": false
