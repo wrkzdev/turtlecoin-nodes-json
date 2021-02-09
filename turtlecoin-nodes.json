@@ -22,6 +22,13 @@
       "cache": false
     },
     {
+      "name": "BlackMulch TRTLnode",
+      "url": "TRTLnode.ddns.net",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "chaosakos-cz",
       "url": "trtl.chaosakos.xyz",
       "port": 11898,
