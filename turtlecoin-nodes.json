@@ -29,20 +29,6 @@
       "cache": false
     },
     {
-      "name": "Donate.TRTL.Bot.Tips",
-      "url": "trtl.bot.tips",
-      "port": 80,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Donate.TRTL.Bot.Tips SSL",
-      "url": "trtl.bot.tips",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
       "name": "chaosakos-cz",
       "url": "trtl.chaosakos.xyz",
       "port": 11898,
@@ -75,6 +61,20 @@
       "url": "uk.turtlecoin4ever.online",
       "port": 11898,
       "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Donate.TRTL.Bot.Tips",
+      "url": "trtl.bot.tips",
+      "port": 80,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Donate.TRTL.Bot.Tips SSL",
+      "url": "trtl.bot.tips",
+      "port": 443,
+      "ssl": true,
       "cache": false
     },
     {
